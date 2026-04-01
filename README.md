@@ -40,3 +40,6 @@ Since the dataset is imbalanced, the models were evaluated based on:
 - **The Imbalance Trap:** Standard models often achieved high accuracy (>90%) but failed to identify the actual loan takers (low Recall). Weighting the classes was essential for a usable model.
 - **Model Stability:** Removing highly correlated features (like Experience) improved the interpretability of the Logistic Regression coefficients.
 
+## Let's Connect
+* **LinkedIn**: [Let's network!](https://www.linkedin.com/in/mohammad-amin-saeini)
+* **Kaggle**: [Check out on Kaggle!](https://www.kaggle.com/code/mohammadaminsaeini/bank-personal-loan-prediction)
